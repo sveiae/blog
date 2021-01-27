@@ -1,11 +1,15 @@
 main:
   - title: "Sign up!"
     url: /
+  - title: "Pricing"
+    url: /pricing/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
   # - title: "Blog"
   #   url: /posts/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
-    url: /about/
-  -title: "Pricing"
-    url: /pricing/
+  - title: "Sign up!"
+    url: /
