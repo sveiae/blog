@@ -8,9 +8,12 @@ title: "Know before attackers"
 ## For security leaders
 * Continuously validate security architecture.
 * Test security personnel and processes.
+* Get anonymously graded against industry peers.
 * Understand ROI on your security tools.
-* No pentesters or red teams needed.
-* No deployments needed.
+* No need for:
+  * pentesters
+  * red teams
+  * deployments
 
 These questions can be answered with the click of a button. See our blog for more info.
 
