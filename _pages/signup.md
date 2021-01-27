@@ -4,7 +4,7 @@ title: "Know before attackers"
 ---
 
 Sign up to get the power of a red team, without the cost of a red team.
-[[Global threat exposure](/assets/images/macbook_geoThreatsDashboard.png)](/assets/images/macbook_geoThreatsDashboard.png)
+[![Global threat exposure](/assets/images/macbook_geoThreatsDashboard.png)](/assets/images/macbook_geoThreatsDashboard.png)
 Emulate threats from around the world
 
 ## For security leaders
