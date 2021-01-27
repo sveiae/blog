@@ -15,14 +15,14 @@ These questions can be answered with the click of a button. See our blog for mor
 
 ## For security engineers and architects
 * Emulate, don't simulate, attacks
-  * Ensure security tools are working
-* Test Firewalls
-* Test IDSes
-* Test Antivirus
-* Test VPNs
-* Test Security Event Monitoring
-* Test Traffic Filtering
-* Test Core Network Services
+* Test:
+  * Firewalls
+  * IDSes
+  * Antivirus
+  * VPNs
+  * SIEMs
+  * Traffic Filtering
+  * Core Network Services
 
 These questions can be answered with the click of a button. See our blog for more info.
 
