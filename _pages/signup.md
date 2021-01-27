@@ -17,6 +17,7 @@ title: "Know before attackers"
   * training
 
 These questions can be answered with the click of a button. See our blog for more info.
+{% include figure image_path="/assets/images/macbook(3).png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security engineers and architects
 * Don't simulate attacks. Emulate attacks!
