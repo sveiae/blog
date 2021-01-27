@@ -89,7 +89,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: signup
     values:
       layout: single
       author_profile: true
