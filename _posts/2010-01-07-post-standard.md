@@ -15,7 +15,7 @@ Mrs. Darling first heard of Peter when she was tidying up her children's minds. 
 
 <!--more-->
 
-{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="/assets/images/macbook.jpeg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
 
 This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
