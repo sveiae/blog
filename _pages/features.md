@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Know before attackers"
+permalink: /features/
+title: "Know first!"
 ---
 
 Sign up to get the power of a red team, without the cost of a red team.
