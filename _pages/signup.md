@@ -1,5 +1,5 @@
 ---
-permalink: /register/
+permalink: /sign-up/
 title: "Register"
 ---
 
