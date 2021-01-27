@@ -34,7 +34,7 @@ These questions can be answered with the click of a button. See our blog for mor
 
 These questions can be answered with the click of a button. See our blog for more info.
 
-## Sign up!
+## Sign up for a free trial!
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
