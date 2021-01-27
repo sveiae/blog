@@ -1,5 +1,5 @@
 ---
-permalink: /signup/
+permalink: /
 title: "Securiful inc"
 ---
 
