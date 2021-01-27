@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pricing
 title: "Know before attackers"
 ---
 
