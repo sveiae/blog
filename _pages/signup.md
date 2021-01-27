@@ -7,3 +7,6 @@ Register to get started with continuous security validation!
 
 
 {% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+
+
+{% include figure image_path="/assets/images/macbook(2).png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
