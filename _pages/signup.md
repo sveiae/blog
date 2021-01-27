@@ -4,7 +4,9 @@ title: "Know before attackers"
 ---
 
 Sign up to get the power of a red team, without the cost of a red team.
-{% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+<!-- {% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %} -->
+
+[![Ancient Bristlecone Pine Forest, USA](/assets/images/macbook_geoThreatsDashboard.png)](/assets/images/macbook_geoThreatsDashboard.png)
 
 ## For security leaders
 {% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Get graded against industry peers" %}
