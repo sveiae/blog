@@ -1,8 +1,8 @@
 main:
-  - title: "Sign Up!"
+  - title: "Sign up!"
     url: /
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Posts"
+    url: /posts/
   # - title: "Tags"
   #   url: /tags/
   - title: "About"

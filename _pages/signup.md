@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Securiful inc"
+title: "Sign up to get our security testing product"
 ---
 
 Register to get started with continuous security validation!
