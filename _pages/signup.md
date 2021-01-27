@@ -5,21 +5,23 @@ title: "Securiful inc"
 
 Register to get started with continuous security validation!
 <figure>
+    gallery:
+    - url: /assets/images/macbook.jpeg
+        image_path: /assets/images/macbook.jpeg
+        alt: "placeholder image 1"
+        title: "Image 1 title caption"
+    - url: /assets/images/macbook.jpeg
+        image_path: /assets/images/macbook.jpeg
+        alt: "placeholder image 2"
+        title: "Image 2 title caption"
+    - url: /assets/images/macbook.jpeg
+        image_path: /assets/images/macbook.jpeg
+        alt: "placeholder image 3"
+        title: "Image 3 title caption"
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
-gallery:
-  - url: /assets/images/macbook.jpeg
-    image_path: /assets/images/macbook.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/macbook.jpeg
-    image_path: /assets/images/macbook.jpeg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/macbook.jpeg
-    image_path: /assets/images/macbook.jpeg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+{% include figure image_path="/assets/images/macbook.jpeg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
