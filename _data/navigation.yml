@@ -1,6 +1,6 @@
 main:
   - title: "Sign Up!"
-    url: /signup/
+    url: /
   # - title: "Posts"
   #   url: /posts/
   # - title: "Tags"
