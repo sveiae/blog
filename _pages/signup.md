@@ -7,18 +7,19 @@ title: "Know before attackers"
 
 ## For security leaders
 * Continuously validate security architecture.
-* Test security personnel and processes.
+* Test reaction times.
 * Get anonymously graded against industry peers.
 * Understand ROI on your security tools.
 * No need for:
   * pentesters
   * red teams
   * deployments
+  * training
 
 These questions can be answered with the click of a button. See our blog for more info.
 
 ## For security engineers and architects
-* Emulate, don't simulate, attacks.
+* Don't simulate attacks. Emulate attacks!
 * Test:
   * Firewalls
   * IDSes
