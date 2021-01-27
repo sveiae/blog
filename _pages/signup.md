@@ -3,9 +3,11 @@ permalink: /
 title: "Know before attackers"
 ---
 
-{% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+{% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+# Get the power of a red team, without the cost of a red team.
 
 ## For security leaders
+{% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 * Continuously validate security architecture.
 * Test reaction times.
 * Get anonymously graded against industry peers.
@@ -17,9 +19,9 @@ title: "Know before attackers"
   * training
 
 These questions can be answered with the click of a button. See our blog for more info.
-{% include figure image_path="/assets/images/macbook(3).png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security engineers and architects
+{% include figure image_path="/assets/images/macbook_malwareDomainsTest.png" alt="Global threat exposure" caption="Get anonymously graded against industry peers" %}
 * Don't simulate attacks. Emulate attacks!
 * Test:
   * Firewalls
