@@ -8,7 +8,7 @@ Sign up to get the power of a red team, without the cost of a red team.
 Emulate threats from around the world
 
 ## For security leaders
-{% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Get graded against industry peers" %}
+[![Get graded against industry peers](/assets/images/macbook_gradingDashboard.png)](/assets/images/macbook_gradingDashboard.png)
 * Continuously validate security architecture.
 * Test reaction times.
 * Get anonymously graded against industry peers.
@@ -22,7 +22,7 @@ Emulate threats from around the world
 These questions can be answered with the click of a button. See our blog for more info.
 
 ## For security engineers and architects
-{% include figure image_path="/assets/images/macbook_malwareDomainsTest.png" alt="Global threat exposure" caption="Deep dive into the gaps of your security tools" %}
+[![Deep dive into the gaps of your security tools](/assets/images/macbook_malwareDomainsTest.png)](/assets/images/macbook_malwareDomainsTest.png)
 * Don't simulate attacks. Emulate attacks!
 * Test:
   * Firewalls
