@@ -15,10 +15,3 @@ title: "Pricing"
 
 ## Sign up for a free trial!
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "8898112",
-	formId: "2b1cfdb3-6618-4dd8-86e4-4786274c0d38"
-});
-</script>
