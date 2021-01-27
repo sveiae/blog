@@ -6,15 +6,16 @@ title: "Know before attackers"
 {% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security leaders
-* Continuously validate security architecture
-* Test without pentesters or red teams.
+* Continuously validate security architecture.
 * Test security personnel and processes.
 * Understand ROI on your security tools.
+* No pentesters or red teams needed.
+* No deployments needed.
 
 These questions can be answered with the click of a button. See our blog for more info.
 
 ## For security engineers and architects
-* Emulate, don't simulate, attacks
+* Emulate, don't simulate, attacks.
 * Test:
   * Firewalls
   * IDSes
