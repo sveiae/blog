@@ -3,8 +3,8 @@ permalink: /
 title: "Know before attackers"
 ---
 
-{% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 # Get the power of a red team, without the cost of a red team.
+{% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security leaders
 {% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
