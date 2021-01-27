@@ -6,26 +6,25 @@ title: "Know before attackers"
 {% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security leaders
-* Have you tested the capabilities of your information security tools? 
-* Do you know if you're getting the ROI you should expect? 
-* Are security processes being tested? 
-* Is there clarity in what needs improvement and how well your security program is doing?
+* Continuously validate security architecture
+* Test without pentesters or red teams.
+* Test security personnel and processes.
+* Understand ROI on your security tools.
 
-These questions can be answered with the click of a button.
-
-See our blog for more info on why these questions must be answered.
+These questions can be answered with the click of a button. See our blog for more info.
 
 ## For security engineers and architects
-* Are things working the way you expect them to?
-* Do you know if the firewall change was done right? 
-* Is your IDS alerting on the important stuff? 
-* Are alarms in your SIEM giving any value all all? 
-* Are you blind to encrypted attack? 
-* Does your DNS server resolve malware domains? 
+* Emulate, don't simulate, attacks
+* Ensure security tools are working
+* Test Firewalls
+* Test IDSes
+* Test Antivirus
+* Test VPNs
+* Test Security Event Monitoring
+* Test Traffic Filtering
+* Test Core Network Services
 
-These questions can be answered with the click of a button.
-
-See our blog for more info on why these questions must be answered.
+These questions can be answered with the click of a button. See our blog for more info.
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
