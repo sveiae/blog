@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Sign up to get our security testing product"
+title: "Register and Download"
 ---
 
-Register to get started with continuous security validation!
-
+# Validate your security architecture
+This is important
 
 {% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+
 
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
