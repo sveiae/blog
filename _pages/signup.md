@@ -1,6 +1,6 @@
 ---
-permalink: /signup/
-title: "Sign Up"
+permalink: /register/
+title: "Register"
 ---
 
-Hey! Sign up now!
+Register to get started with continuous security validation!
