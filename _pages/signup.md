@@ -1,10 +1,7 @@
 ---
 permalink: /
-title: "Register and Download"
+title: "Threat-led, Continuous Security Monitoring"
 ---
-
-# Validate your security architecture
-This is important
 
 {% include figure image_path="/assets/images/macbook_refined.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
