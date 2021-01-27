@@ -1,5 +1,5 @@
 ---
-permalink: /features/
+permalink: /
 title: "Know first!"
 ---
 
