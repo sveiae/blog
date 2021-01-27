@@ -3,7 +3,7 @@ permalink: /
 title: "Know before attackers"
 ---
 
-[Link to a document]({% link https://www.securiful.com/#for-security-engineers-and-architects %}) to get the power of a red team, without the cost of a red team.
+Sign up to get the power of a red team, without the cost of a red team.
 {% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security leaders
