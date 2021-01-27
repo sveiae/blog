@@ -3,11 +3,11 @@ permalink: /
 title: "Know before attackers"
 ---
 
-# Get the power of a red team, without the cost of a red team.
+[Link to a document]({% https://www.securiful.com/#for-security-engineers-and-architects %}) to get the power of a red team, without the cost of a red team.
 {% include figure image_path="/assets/images/macbook_geoThreatsDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
 
 ## For security leaders
-{% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Emulate threats from around the world" %}
+{% include figure image_path="/assets/images/macbook_gradingDashboard.png" alt="Global threat exposure" caption="Get graded against industry peers" %}
 * Continuously validate security architecture.
 * Test reaction times.
 * Get anonymously graded against industry peers.
@@ -21,7 +21,7 @@ title: "Know before attackers"
 These questions can be answered with the click of a button. See our blog for more info.
 
 ## For security engineers and architects
-{% include figure image_path="/assets/images/macbook_malwareDomainsTest.png" alt="Global threat exposure" caption="Get anonymously graded against industry peers" %}
+{% include figure image_path="/assets/images/macbook_malwareDomainsTest.png" alt="Global threat exposure" caption="Deep dive into the gaps of your security tools" %}
 * Don't simulate attacks. Emulate attacks!
 * Test:
   * Firewalls
@@ -33,6 +33,8 @@ These questions can be answered with the click of a button. See our blog for mor
   * Core Network Services
 
 These questions can be answered with the click of a button. See our blog for more info.
+
+## Sign up!
 
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
 <script>
