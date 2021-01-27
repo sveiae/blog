@@ -3,13 +3,9 @@ main:
     url: /
   - title: "Pricing"
     url: /pricing/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
-  # - title: "Blog"
-  #   url: /posts/
+  - title: "Blog"
+    url: /posts/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Sign up!"
-    url: /
