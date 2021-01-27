@@ -4,6 +4,9 @@ title: "Securiful inc"
 ---
 
 Register to get started with continuous security validation!
+<figure>
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
 
 gallery:
   - url: /assets/images/macbook.jpeg
@@ -19,4 +22,4 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
